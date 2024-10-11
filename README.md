@@ -7,6 +7,6 @@ Learn more [here](https://www.futoshiki.org/).
 
 ## Info
 A Java program designed to solve the Futoshiki game using AI.  
-It was created as an assignment for the "The Basics of Artificial Intelligence" course at the University of Debrecen. 
+It was created as an assignment for the 'Basics of Artificial Intelligence' course at the University of Debrecen. 
 
-This is a reqursive solution that works for 4x4 tables with predefined values provided by the user.
+This is a reqursive solution that works for 4x4 grids with predefined values provided by the user.
