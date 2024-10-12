@@ -36,7 +36,7 @@ public class Main {
                 Futoshiki.getSigns().add(Integer.parseInt(token[i]));
 
         // Saved clue signs.
-        // System.out.println(Unequal.getSigns());
+        // System.out.println(Futoshiki.getSigns());
 
         if (futoshiki.solveFutoshiki())
             System.out.println(futoshiki.toString());
