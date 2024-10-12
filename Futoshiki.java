@@ -11,7 +11,7 @@ public class Futoshiki {
     private static final int N = 4; // Size of the board
     private static final int EMPTY = 0; // Represents an empty cell
 
-    private static ArrayList<Integer> signs; // list of the clue signs
+    private static ArrayList<Integer> signs; // List of clue signs
 
     // Constructor
     public Futoshiki(int[][] board) {
